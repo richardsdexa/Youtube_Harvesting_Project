@@ -44,6 +44,12 @@ We approach the problem by analysing all the requirements clearly and draw the w
 
 **Youtube Links**
 
+**Before Coding**
+1) https://youtu.be/LBSsp87LqEE
+
+**After Coding** 
+2) https://youtu.be/3Ra4aB5J7ys
+
 
 **Bugs:-** still the presence of lottie animation crashes the application if the network is very slow.
 
